@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Explore and uncover the mystery of a surreal alien world by blasting aliens and glitching your environment in this intense retro side-scrolling action/adventure.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | OSX 10.6.8 |
+| **Processor** | Intel Pentium E2180 2.0 GHz | 2.4 GHz Intel Core 2 Duo |
+| **Memory** | 500 MB RAM | 500 MB RAM |
+| **Graphics** | Intel HD Graphics 4400 | Geforce 320M |
+| **Storage** | 300 MB available space | 300 MB available space |
+| **OS *** | Windows XP | Windows XP |
+| **Additional Notes** | Dual Shock 4 or XInput controller recommended. | Dual Shock 4 or XInput controller recommended. |
 
 ---
 
